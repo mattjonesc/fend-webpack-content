@@ -1,1 +1,1 @@
-alert("fart");
+(()=>{"use strict";alert("fart")})();
